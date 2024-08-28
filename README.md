@@ -28,7 +28,7 @@
 
 
 ### Learning:
-![JAVA](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=**openjdk**&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E7A13&height=120&section=footer"/>
