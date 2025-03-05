@@ -28,7 +28,7 @@
 
 
 ### Learning:
-![JAVA](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
+![DJANGO]([https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=orange](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green))
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E7A13&height=120&section=footer"/>
