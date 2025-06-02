@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E7A13&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E5E7E5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Kaiky+Silva;I'm+20+years+old;I+am+from+Guarulhos,+SP;I+study+analysis+and+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E5E7E5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Kaiky+Silva;Eu+tenho+20+anos;Eu+sou+de+Guarulhos,+SP;Eu+estudo+Análise+e+Desenvolvimento+de+Sistemas;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KaikySil&show_icons=true&count_private=true&hide_border=true&title_color=0E7A13&icon_color=0E7A13&text_color=c9d1d9&bg_color=0d1117" alt="Kaiky Silva github stats" /> 
