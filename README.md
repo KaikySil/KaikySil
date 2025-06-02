@@ -24,7 +24,7 @@
 ### Ferramentas:
 ![Windows](https://img.shields.io/badge/Windows-10%20&%2011-blue)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/Git%20Hub-000000)&nbsp;
 ![GIT](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black)&nbsp;
 
 
