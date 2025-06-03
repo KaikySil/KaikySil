@@ -29,7 +29,7 @@
 
 
 ### Aprendendo:
-![NODE](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=red)
+![NODE](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E7A13&height=120&section=footer"/>
